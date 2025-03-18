@@ -69,6 +69,6 @@ Aquí es donde están todos los archivos de esta carpeta y donde la clase comenz
 
 Puedes verla [aquí](/Paquete/).
 
-#Cambios hacia la nube
+#Cambios desde la nube hasta remoto
 
 Estoy cambiando y soy adrian
